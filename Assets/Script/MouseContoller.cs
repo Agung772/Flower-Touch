@@ -32,13 +32,11 @@ public class MouseContoller : MonoBehaviour
         {
             handleBool = true;
             particle.Play();
-            print("Play");
         }
 
         if (!particleBool)
         {
             particle.Stop();
-            print("Stop");
         }
     }
 }
