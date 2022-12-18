@@ -7048,9 +7048,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 440359112}
-        m_TargetAssemblyTypeName: SettingParticle, Assembly-CSharp
-        m_MethodName: DefaultSetting
+      - m_Target: {fileID: 29817707}
+        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
+        m_MethodName: QuitGame
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
